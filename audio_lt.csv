@@ -1,0 +1,153 @@
+1.ogg,Laukiu tinklo konfigūracijos.
+2.ogg,Neįmanoma prisijungti prie vaifai tinklo. Patikrinkite vaifai slaptažodį ir pabandykite dar kartą.
+3.ogg,Neįmanoma prisijungti prie serverio. Patikrinkite tinklą ir pabandykite dar kartą vėliau.
+4.ogg,Robotas išėjo iš tinklo konfigūravimo režimo.
+5.ogg,Prisijungta prie tinklo sėkmingai.
+6.ogg,Nepavyko užmegzti tinklo ryšio. Prašome pabandyti vėliau.
+7.ogg,Pradedu valymą.
+8.ogg,Pradedu vietos valymą.
+9.ogg,Pradedu suplanuotą valymą.
+10.ogg,Tęsiu valymą.
+11.ogg,Pristabdyta.
+12.ogg,Valymas baigtas.
+13.ogg,Grįžtu į krovimo stotelę.
+14.ogg,Senka baterija. Grįžtu į krovimo stotelę. Tęsiu valymą kai įkrausiu bateriją.
+15.ogg,Tuoj grįšiu į pradinį tašką.
+16.ogg,Senka baterija. Ruošiuosi grįžti į pradinį tašką. Įkraukite mane.
+17.ogg,Perkelkite mane į krovimo stotelę.
+18.ogg,Kraunuosi.
+19.ogg,Prieš išjungdami nuimkite mane nuo krovimo stotelės.
+20.ogg,Senka baterija.
+21.ogg,Senka baterija. Robotas išsijungs.
+22.ogg,"Perkelkite robotą į vietą, kurią reikia išvalyti."
+23.ogg,Įdėtas vandens rezervuaras.
+24.ogg,"Patikrinkite, ar tinkamai įdėtas vandens rezervuaras."
+25.ogg,Senka baterija. Nepavyksta atlikti suplanuoto valymo.
+26.ogg,Gamyklinių nustatymų atkūrimas.
+27.ogg,Atnaujinimas. Užtrunka apie penkias minutes. Neišjunkite ir nepradėkite valymo užduoties.
+28.ogg,Sėkmingai atnaujinta.
+29.ogg,"Atnaujinti nepavyko, bandykite dar kartą."
+30.ogg,"Orientuojuosi, palaukite."
+31.ogg,Susiorientuoti nepavyko. Žemėlapis negalioja. Robotas pradės naują valymą.
+32.ogg,Aptikau aplinkos pokyčius. Paspauskite mygtuką ir pradėkite naują valymo ciklą.
+33.ogg,Vizualinės navigacijos jutiklio klaida. Nuvalykite jį ir paleiskite iš naujo.
+34.ogg,Neįdėta šiukšlių dėžė. Įdėkite ją.
+35.ogg,Pagrindinio šepečio klaida. Patikrinkite ir išvalykite jį.
+36.ogg,Šoninio šepečio klaida. Patikrinkite ir išvalykite jį.
+37.ogg,Dešiniojo rato klaida. Patikrinkite ir išvalykite jį.
+38.ogg,Kairiojo rato klaida. Patikrinkite ir išvalykite jį.
+39.ogg,Išvalykite aukščio jutiklį.
+40.ogg,"Robotas įstrigo. Perkelkite jį į kitą padėtį, kad būtų galima paleisti iš naujo."
+41.ogg,Roboto ratai pakibo. Pastatykite robotą atgal ant žemės.
+42.ogg,Patikrinkite ir išvalykite filtrą.
+43.ogg,"Bamperio klaida. Švelniai bakstelėkite, kad pamatytumėte, ar jis atšoka."
+44.ogg,Klaida. Skaitykite instrukciją arba kreipkitės į klientų aptarnavimo tarnybą.
+45.ogg,Aš – čia.
+46.ogg,Sujungtas robotas su telefonu. Grįžkite į programėlę ir laukite rezultato.
+47.ogg,Įkrovimo pradžia.
+48.ogg,Baterija senka. Grįžtu į krovimo stotelę.
+49.ogg,Aptiktas didelio intensyvumo magnetinis laukas. Atitraukite robotą ir paleiskite iš naujo.
+50.ogg,Krovimo klaida. Išvalykite įkrovimo kontaktus.
+51.ogg,"Baterijos perkaitimas arba peršalimas. Palaukite, kol baterijos temperatūra vėl taps normali. Tada toliau naudokite."
+52.ogg,"Robotas pasviro. Norėdami jį paleisti iš naujo, pastatykite ant lygaus pagrindo."
+53.ogg,Aptikta virtuali neįžengiama zona. Perkelkite robotą ir paleiskite iš naujo.
+54.ogg,Susiorientavau. Tęsiu valymą.
+55.ogg,Susiorientavau. Grįžtu į krovimo stotelę.
+56.ogg,Pradedu pasirinktos patalpos valymą.
+57.ogg,Pradedu zoninį valymą.
+58.ogg,Tęsiu valymo užduotį.
+59.ogg,Baigtas plovimas. Nedelskite ištraukti vandens rezervuarą.
+60.ogg,Optinio srauto jutiklio klaida. Nuvalykite optinio srauto jutiklį ir paleiskite iš naujo.
+61.ogg,Pradedu plovimą.
+62.ogg,Pradedu nuotolinio valdymo valymą.
+63.ogg,Vandens rezervuaras išimtas.
+64.ogg,Susiorientuoti nepavyko. Žemėlapis negalioja. Robotas grįš į krovimo stotelę.
+65.ogg,Tęsiu grįžimą į krovimo stotelę.
+66.ogg,Filtras susidėvėjęs. Nedelskite jį pakeisti.
+67.ogg,Šoninis šepetys susidėvėjęs. Nedelskite jį pakeisti.
+68.ogg,Pagrindinis šepetys susidėvėjęs. Nedelskite jį pakeisti.
+69.ogg,"Užblokuotas valymo kelias. Perkelkite robotą į kitą vietą, kad galėtumėte pradėti iš naujo."
+70.ogg,Išimkite ir išvalykite plovimo šluostę.
+71.ogg,Lazerio jutiklio klaida. Patikrinkite ir išvalykite lazerio jutiklį.
+72.ogg,"Patikrinkite, ar lazerinio atstumo jutiklio dangtelis neužstrigo."
+73.ogg,Kraštų jutiklio klaida. Patikrinkite ir išvalykite jį.
+74.ogg,Pabandykite išvalyti kliūčių jutiklius.
+75.ogg,Filtras gali būti neišdžiūvęs arba užsikimšęs.
+76.ogg,Pradedamas vietinis valymas.
+77.ogg,Pradėkite valymą ne kilimų zonoje.
+78.ogg,Išvalykite 3D kliūčių vengimo jutiklį.
+79.ogg,3D kliūčių vengimo jutiklio klaida. Paleiskite robotą iš naujo arba kreipkitės į klientų aptarnavimo tarnybą.
+80.ogg,3D kliūčių vengimo jutiklio siųstuvas veikia netinkamai. Iš naujo paleiskite robotą arba kreipkitės į garantinio aptarnavimo skyrių.
+81.ogg,Ultragarsinio jutiklio klaida. Paleiskite robotą iš naujo arba kreipkitės į klientų aptarnavimo tarnybą.
+82.ogg,Padedu žemėlapio sudarymą.
+83.ogg,Tęsiu žemėlapio sudarymą.
+84.ogg,Žemėlapio sudarymas baigtas.
+85.ogg,Susiorientuoti pavyko. Tęsiu žemėlapio sudarymą.
+86.ogg,Susiorientuoti nepavyko. Pradedu žemėlapio sudarymą iš naujo.
+87.ogg,Senka baterija. Grįžtu į krovimo stotelę.
+88.ogg,Įeinu į nuotolinio valdymo režimą.
+89.ogg,Tęsiu krovimą.
+90.ogg,Tęsiu valymo užduotį.
+91.ogg,"Švaraus vandens rezervuaras neįdėtas. Prieš robotui pradedant dirbti, įdėkite jį."
+92.ogg,"Nešvaraus vandens rezervuaras neįdėtas. Prieš robotui pradedant dirbti, įdėkite jį."
+93.ogg,Švaraus vandens rezervuare trūksta vandens. Įpilkite vandens į rezervuarą prieš robotui tęsiant darbą.
+94.ogg,Nešvaraus vandens bakas yra pilnas. Išpilkite nešvarų vandenį prieš robotui tęsiant darbą.
+95.ogg,Šluostės plovimo plokštė neįdėta. Robotas negali grįžti į krovimo stotelę.
+96.ogg,"Šluostės plovimo plokštė perpildyta. Patikrinkite, ar neužsikimšusi vandens išleidimo anga."
+97.ogg,"Dulkių surinkimo maišelis neįdėtas. Prieš robotui pradedant dirbti, įdėkite jį."
+98.ogg,Dulkių surinkimo maišelis yra pilnas. Ištuštinkite jį.
+99.ogg,"Viršutinis įkrovimo ir dulkių surinkimo skyriaus dangtis neuždarytas. Prieš robotui pradedant dirbti, uždarykite viršutinį dangtį."
+100.ogg,Užsikimšęs įkrovimo ir dulkių surinkimo skyriaus oro kanalas. Patikrinkite.
+101.ogg,Neuždarytas dulkių surinkimo stotelės viršutinis dangtis arba neįdėtas dulkių surinkimo maišelis. Uždarykite viršutinį dangtį arba įdėkite maišelį.
+102.ogg,Dulkių surinkimo maišelis yra pilnas arba oro kanalas yra užsikimšęs. Pakeiskite maišelį nauju arba išvalykite oro kanalą.
+103.ogg,Įdėta šluostės plovimo plokštė. Robotas tęsia darbą.
+104.ogg,"Šluostės pado plovimo plokštė neįdėta. Įsitikinkite, kad plokštė yra sumontuota, o jos abiejose pusėse esantys užsegimai yra tvirtai pritvirtinti."
+105.ogg,Pradedu valymą.
+106.ogg,Pradedu šluostės valymą.
+107.ogg,Pradedu šluostės džiovinimą.
+108.ogg,"Vandens lygis šluostės plovimo plokštėje yra nenormalus. Laiku ją išvalykite, kad neužsikimštų."
+109.ogg,"Problema nešvaraus vandens rezervuare. Patikrinkite ar nešvaraus vandens rezervuaras įdėtas, ir laiku ištuštinkite jame esantį nešvarų vandenį."
+110.ogg,Pradedu ištuštinimą.
+111.ogg,Šluostės nuimtos. Įdėkite jas.
+112.ogg,Prieš naudodami uždėkite robotą atgal ant savaiminio plovimo pagrindo.
+113.ogg,Užduotis įvykdyta. Laiku ištuštinkite atliekų talpyklą.
+114.ogg,Šluostės uždėtos.
+115.ogg,Šluostės nuimtos.
+116.ogg,Įjungtas vaikų užraktas. Mygtukai užrakinti.
+117.ogg,Vaikų užraktas išjungtas. Mygtukai atrakinti.
+118.ogg,"Mygtukai užrakinti. Paspauskite ir palaikykite krovimo stotelės mygtuką, kad atrakintumėte."
+119.ogg,Mygtukai užrakinti.
+120.ogg,Mygtukai atrakinti.
+121.ogg,"Robotas ir telefonas sujungti. Grįžkite į ""Fantic"" programą ir palaukite, kol bus baigtas tinklo sujungimas."
+122.ogg,"Tęstinis orientavimasis, palaukite."
+126.ogg,Pradedu valymą.
+127.ogg,Pradedu vietos valymą.
+128.ogg,Pradedu vietos plovimą.
+129.ogg,Pradedu suplanuotą valymą.
+130.ogg,Pradedu suplanuotą plovimą.
+131.ogg,Pradedu taškinį valymą.
+132.ogg,Pradedu taškinį plovimą.
+133.ogg,Pradedu pasirinktos patalpos valymą.
+134.ogg,Pradedu pasirinktos patalpos plovimą.
+135.ogg,Pradedu zoninį valymą.
+136.ogg,Pradedu zoninį plovimą.
+137.ogg,Tęsiu valymą.
+138.ogg,Tęsiu plovimą.
+139.ogg,Tęsiu grįžimą į krovimo stotelę savaiminiam išsivalymui.
+140.ogg,Aptikta nauja aplinka. Grįžtama į savaiminio plovimo bazę.
+141.ogg,Šluostės klaida. Patikrinkite ir išvalykite ją.
+142.ogg,Susidėvėjusi šluostė. Laiku ją pakeiskite.
+143.ogg,Valymas baigtas.
+144.ogg,Plovimas baigtas.
+145.ogg,Susiorientavau. Tęsiu valymą.
+146.ogg,Susiorientavau. Tęsiu plovimą.
+148.ogg,Grįžkite į krovimo stotelę savaiminiam valymui.
+149.ogg,Nepavyksta pasiekti nurodytos srities. Pabandykite pašalinti kliūtis kelyje.
+150.ogg,Nepavyksta pasiekti nurodytos srities. Pabandykite ištrinti kelyje esančias neįžengiamas zonas.
+151.ogg,Kelias užblokuotas. Pasistenkite pašalinti kliūtis aplink robotą.
+152.ogg,Kelias užblokuotas. Pabandykite ištrinti neįžengiamas zonas arba perkelkite robotą iš šios zonos.
+153.ogg,Jūsų robotas aptiktas neįžengiamoje zonoje. Perkelkite savo robotą iš šios zonos.
+154.ogg,Tai darote per dažnai. Prašome pabandyti dar kartą vėliau.
+155.ogg,Grįžtu prie įkrovimo ir šluostės valymo stotelės.
+156.ogg,Išimtas šluostės padėklas.
+157.ogg,Jau esu įkrovimo ir šluostės valymo stotelėje.
