@@ -42,7 +42,7 @@
 42.ogg,Patikrinkite ir išvalykite filtrą.
 43.ogg,"Bamperio klaida. Švelniai bakstelėkite, kad pamatytumėte, ar jis atšoka."
 44.ogg,Klaida. Skaitykite instrukciją arba kreipkitės į klientų aptarnavimo tarnybą.
-45.ogg,Aš – čia.
+45.ogg,Aš esu čia.
 46.ogg,Sujungtas robotas su telefonu. Grįžkite į programėlę ir laukite rezultato.
 47.ogg,Įkrovimo pradžia.
 48.ogg,Baterija senka. Grįžtu į krovimo stotelę.
@@ -63,9 +63,9 @@
 63.ogg,Vandens rezervuaras išimtas.
 64.ogg,Susiorientuoti nepavyko. Žemėlapis negalioja. Robotas grįš į krovimo stotelę.
 65.ogg,Tęsiu grįžimą į krovimo stotelę.
-66.ogg,Filtras susidėvėjęs. Nedelskite jį pakeisti.
-67.ogg,Šoninis šepetys susidėvėjęs. Nedelskite jį pakeisti.
-68.ogg,Pagrindinis šepetys susidėvėjęs. Nedelskite jį pakeisti.
+66.ogg,Filtras susidėvėjęs. Pakeiskite jį laiku.
+67.ogg,Šoninis šepetys susidėvėjęs. Pakeiskite jį laiku.
+68.ogg,Pagrindinis šepetys susidėvėjęs. Pakeiskite jį laiku.
 69.ogg,"Užblokuotas valymo kelias. Perkelkite robotą į kitą vietą, kad galėtumėte pradėti iš naujo."
 70.ogg,Išimkite ir išvalykite plovimo šluostę.
 71.ogg,Lazerio jutiklio klaida. Patikrinkite ir išvalykite lazerio jutiklį.
@@ -79,7 +79,7 @@
 79.ogg,3D kliūčių vengimo jutiklio klaida. Paleiskite robotą iš naujo arba kreipkitės į klientų aptarnavimo tarnybą.
 80.ogg,3D kliūčių vengimo jutiklio siųstuvas veikia netinkamai. Iš naujo paleiskite robotą arba kreipkitės į garantinio aptarnavimo skyrių.
 81.ogg,Ultragarsinio jutiklio klaida. Paleiskite robotą iš naujo arba kreipkitės į klientų aptarnavimo tarnybą.
-82.ogg,Padedu žemėlapio sudarymą.
+82.ogg,Pradedu žemėlapio sudarymą.
 83.ogg,Tęsiu žemėlapio sudarymą.
 84.ogg,Žemėlapio sudarymas baigtas.
 85.ogg,Susiorientuoti pavyko. Tęsiu žemėlapio sudarymą.
@@ -141,7 +141,7 @@
 144.ogg,Plovimas baigtas.
 145.ogg,Susiorientavau. Tęsiu valymą.
 146.ogg,Susiorientavau. Tęsiu plovimą.
-148.ogg,Grįžkite į krovimo stotelę savaiminiam valymui.
+148.ogg,Grįžtu į krovimo stotelę savaiminiam išsivalymui.
 149.ogg,Nepavyksta pasiekti nurodytos srities. Pabandykite pašalinti kliūtis kelyje.
 150.ogg,Nepavyksta pasiekti nurodytos srities. Pabandykite ištrinti kelyje esančias neįžengiamas zonas.
 151.ogg,Kelias užblokuotas. Pasistenkite pašalinti kliūtis aplink robotą.
