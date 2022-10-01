@@ -5,7 +5,7 @@ Lithuanian voice pack for Dreame robot vaccums generated using narakeet text-to-
 ## Usage:
 1. Open Valetudo web interface
 2. Go to Menu -> Robot settings -> Misc settings
-3. Fill in "Voice packs" section:
+3. Fill in "Voice packs" section (you don't need to fill in "Language code" field):
 
 | Field      | Contents |
 | ----------- | ----------- |
